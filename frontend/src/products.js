@@ -121,7 +121,7 @@ const products = [
   {
     _id: "10",
     name: "Sega Dreamcast Console",
-    image: "/images/Sega-Dreamcast-Console.jpeg",
+    image: "/images/Sega-Dreamcast-Console.jpg",
     description:
       "Back For Limited Time - Our most popular Console Fans will love this holiday",
     brand: "Sega",
@@ -135,7 +135,7 @@ const products = [
   {
     _id: "11",
     name: "Xbox Series X",
-    image: "/images/Xbox-Series-X.jpeg",
+    image: "/images/Xbox-Series-X.jpg",
     description:
       "Back For Limited Time - Our most popular Console Fans will love this holiday",
     brand: "Microsoft",
