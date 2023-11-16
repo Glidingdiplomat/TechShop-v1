@@ -145,6 +145,20 @@ const products = [
     rating: 4,
     numReviews: 7,
   },
+
+  {
+    _id: "12",
+    name: "Steam Deck",
+    image: "/images/SteamDeck.webp",
+    description:
+      "Back For Holiday Season - Get Your Steamdeck to play on the road",
+    brand: "Steam",
+    category: "Electronics",
+    price: 599.99,
+    countInStock: 0,
+    rating: 3.5,
+    numReviews: 20,
+  },
 ];
 
 export default products;
